@@ -16,7 +16,7 @@ This Python program is a console-based mini blog system that allows users to wri
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mini-blog.git
+   git clone https://github.com/shashankatthaluri/10_Basic_python_projects/mini-blog.git
    ```
 Navigate to the project directory:
 
