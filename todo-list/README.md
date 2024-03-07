@@ -27,7 +27,7 @@ cd todo-list
 Run the Python script:
 
 ```bash
-python todo_list.py
+python todo-list.py
 ```
 
 Follow the prompts to interact with the to-do list.
@@ -36,7 +36,7 @@ Example
 
 ```bash
 
-$ python todo_list.py
+$ python todo-list.py
 
 Welcome to the To-Do List App! ✨
 
