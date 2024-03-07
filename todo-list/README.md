@@ -15,7 +15,7 @@ This Python program allows users to create, manage, and view a simple to-do list
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/shashankatthaluri/10_Basic_python_projects/todo-list.git
    ```
 
 Navigate to the project directory:
