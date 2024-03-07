@@ -15,7 +15,7 @@ This Python program creates a simple URL shortener. It generates a short and uni
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/shashankatthaluri/10_Basic_python_projects/url-shortener.git
    ```
 Navigate to the project directory:
 
