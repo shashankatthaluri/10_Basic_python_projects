@@ -15,7 +15,7 @@ This simple Python program prompts the user to enter their name, then prints a p
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Hello_world.git
+   git clone https://github.com/shashankatthaluri/10_Basic_python_projects/Hello_world.git
    ```
 2.Navigate to the project directory:
 ```bash
