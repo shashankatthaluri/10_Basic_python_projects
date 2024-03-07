@@ -15,7 +15,7 @@ This Python program is a basic web scraper that extracts information from a webs
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/web-scrapper.git
+   git clone https://github.com/shashankatthaluri/10_Basic_python_projects/web-scrapper.git
    ```
 Navigate to the project directory:
 
