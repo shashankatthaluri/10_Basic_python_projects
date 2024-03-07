@@ -15,7 +15,7 @@ This Python program is a simple number guessing game. The computer generates a r
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/shashankatthaluri/10_Basic_python_projects/number-guessing-game.git
 ```
 
 Navigate to the project directory:
