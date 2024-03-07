@@ -99,3 +99,5 @@ Choose an option (1-5): 5
 
 Exiting Mini Blog System. Goodbye!
 ```
+## Feature work 
+Add the AI in it, do LLM kind of models. Ask AI to write the blog for you, play around. Happy coding!
