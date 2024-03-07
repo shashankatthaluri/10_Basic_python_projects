@@ -60,3 +60,4 @@ Word: r a t t e n
 
 Congratulations! You guessed the word!
 ```
+You can checkout my next level hangman game I created in schooling.
