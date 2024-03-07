@@ -25,8 +25,8 @@ This repository contains a collection of 10 Python projects suitable for beginne
 7. **Hangman Game:**
    - Implement the classic Hangman game where users try to guess a word by inputting letters.
 
-8. **Personal Portfolio Website:**
-   - Build a simple personal portfolio website using a Python web framework like Flask or Django.
+8. **URL shortener:**
+   - Build a simple program which can shorten your long urls into tiny ones.
 
 9. **Currency Converter:**
    - Develop a currency converter that converts between different currencies using real-time exchange rates.
