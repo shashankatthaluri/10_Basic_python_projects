@@ -15,7 +15,7 @@ This Python program simulates a basic calculator. It allows users to perform add
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/shashankatthaluri/10_Basic_python_projects/calculator.git
    ```
 2. Navigate to the project directory:
 
