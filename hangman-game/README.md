@@ -15,7 +15,7 @@ This Python program is a classic Hangman game where the player tries to guess a 
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hangman-game.git
+   git clone https://github.com/shashankatthaluri/10_Basic_python_projects/hangman-game.git
    ```
 Navigate to the project directory:
 
