@@ -15,13 +15,13 @@ This Python program is a basic web scraper that extracts information from a webs
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/web-scraper.git
+   git clone https://github.com/your-username/web-scrapper.git
    ```
 Navigate to the project directory:
 
 ```bash
 
-cd web-scraper
+cd web-scrapper
 ```
 Install the required libraries:
 ```bash
@@ -31,13 +31,13 @@ pip install beautifulsoup4 requests
 Run the Python script:
 
 ```bash
-python web_scraper.py
+python web_scrapper.py
 ```
 Follow the prompts to specify the website URL and see the extracted information.
 
 Example
 ```bash
-$ python web_scraper.py
+$ python web_scrapper.py
 
 Enter the URL of the website to scrape: https://example.com
 
