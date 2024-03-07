@@ -20,34 +20,34 @@ Clone the repository:
 Navigate to the project directory:
 
 ```bash
-Copy code
 cd weather-app
 ```
 Install the required libraries:
 
-bash
-Copy code
+```bash
 pip install requests
+```
+
 Obtain an API key from OpenWeatherMap:
 
 Sign up for a free account: https://openweathermap.org/appid
 Copy your API key.
 Create a file named config.py in the project directory and add your API key:
 
-python
-Copy code
+```python
 # config.py
 API_KEY = "your_openweathermap_api_key"
+```
 Run the Python script:
 
-bash
-Copy code
+```bash
 python weather_app.py
+```
+
 Follow the prompts to enter the location and see the current weather.
 
 Example
-bash
-Copy code
+```bash
 $ python weather_app.py
 
 Enter the location (city, country): London, UK
@@ -59,3 +59,4 @@ Current Weather:
 - Description: Light rain
 - Humidity: 82%
 - Wind Speed: 5.1 m/s
+```
