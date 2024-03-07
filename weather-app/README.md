@@ -15,7 +15,7 @@ This Python program fetches weather data from an API based on a user-provided lo
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/shashankatthaluri/10_Basic_python_projects/weather-app.git
    ```
 Navigate to the project directory:
 
